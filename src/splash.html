@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Loading</title>
+<style>
+    body {
+        margin: 0;
+        background: #121212;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        color: white;
+        font-family: sans-serif;
+    }
+    .logo {
+        width: 130px;
+        animation: pulse 1.3s infinite ease-in-out;
+    }
+    @keyframes pulse {
+        0% { transform: scale(1); opacity: .7; }
+        50% { transform: scale(1.1); opacity: 1; }
+        100% { transform: scale(1); opacity: .7; }
+    }
+</style>
+</head>
+<body>
+    <img src="./logo.png" class="logo">
+</body>
+</html>
