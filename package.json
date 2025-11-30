@@ -9,13 +9,7 @@
     "build": "electron-builder"
   },
   "build": {
-    "publish": [
-      {
-        "provider": "github",
-        "owner": "Just1diaxx",
-        "repo": "nxdownloader"
-      }
-    ],
+    "publish": null,
     "appId": "com.just.nxdownloader",
     "productName": "NXDownloader",
     "files": [
