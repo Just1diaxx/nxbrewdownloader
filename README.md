@@ -21,9 +21,10 @@ The goal of this project is to provide a fast, safe, and convenient desktop tool
 ## 🌐 Currently supported websites
 | Name | Search | Extract links |
 | -------- | ------- | -------- |
-| Romslab | ✅ | ✅ |
 | NxBrew | ✅ | ✅ |
+| Romslab | ✅ | ✅ |
 | NSWPedia | ✅ | ✅ |
+| Romsim | ✅ | ✅ |
 | APKMARA - cloudfare protected | ❌ | ❌ |
 
 You can open an [issue](https://github.com/Just1diaxx/NXdownloader/issues) to suggest websites!
